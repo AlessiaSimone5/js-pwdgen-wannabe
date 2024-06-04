@@ -15,7 +15,6 @@ nomecognomecolorepreferito21
 `;
 console.log(nomeCompleto);
 
-
 document.getElementById('nome-utente').innerHTML = nomeUtente;
 document.getElementById('cognome-utente').innerHTML = cognomeUtente;
 document.getElementById('colore-preferito').innerHTML = colorePreferito;
